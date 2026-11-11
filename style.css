@@ -11,14 +11,28 @@ body {
   background-color: #111;
 }
 
-.box {
+.box1 {
   height: 300px;
   width: 300px;
-  border-radius: 22px;
-  background-color: rgb(83, 188, 223);
+  border-radius: 10px;
+  background-color: royalblue;
+  margin-bottom: 10px;
 }
-
-h1 {
+.box2 {
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+  background-color: lightseagreen;
+  margin-bottom: 10px;
+}
+.box3 {
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+  background-color: crimson;
+  margin-bottom: 10px;
+}
+/* h1 {
   color: white;
   font-size: 35px;
-}
+} */
